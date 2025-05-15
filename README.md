@@ -1,4 +1,4 @@
-📉 ![Customer Churn Prediction using XGBoost](https://churnprediction-9mhrmxtfkjhhfv4s4x2k8x.streamlit.app/)
+📉 Customer Churn Prediction using XGBoost
 This project aims to predict customer churn using machine learning, specifically the XGBoost classifier. The model is trained on a telecom dataset and deployed using a user-friendly Streamlit web app for interactive usage.
 
 🔍 Problem Statement
