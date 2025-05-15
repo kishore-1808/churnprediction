@@ -1,7 +1,10 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import os
+os.system("pip install joblib")
 import joblib
+
 
 # Load trained model and scaler
 model = joblib.load("xgboost_model.pkl")  # Update with correct file if needed
